@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+*.suo
+*.user
+*.cachefile
+*.docstates
+*.vsp
+*.DS_STORE
+*.pidb
+*.userprefs
+*.swp
